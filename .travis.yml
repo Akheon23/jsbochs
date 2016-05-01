@@ -8,6 +8,6 @@ compiler:
   
 
 
-before_install: sudo hostname 10.0.0.2 && configure &&   make 
+before_install: sudo hostname 10.0.0.2 && configure && make 
 
 install: true
